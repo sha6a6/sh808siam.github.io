@@ -1,8 +1,6 @@
 Hello ! 👋
 
-This is
-
-Shabab Hussain Siam | শাবাব হুসাইন সিয়াম 😎
+This is Shabab Hussain Siam / শাবাব হুসাইন সিয়াম 😎
 
 Tech. Enthusiast from Bangladesh ✨
 
