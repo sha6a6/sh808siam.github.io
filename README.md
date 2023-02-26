@@ -1,9 +1,3 @@
-<html>
-  <head>
-    <meta name="google-site-verification" content="FI9_-R2yerwECFqak56hn1N2K1XB6bwzcREHJaqL7aU" />
-  </head>
-</html>
-
 - [Hello](https://sh808siam.github.io) ! 👋
 
 - This is Shabab Hussain Siam / শাবাব হুসাইন সিয়াম 😎
